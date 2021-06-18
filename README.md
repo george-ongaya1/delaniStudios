@@ -13,6 +13,7 @@ https://github.com/george-ongaya1/delaniStudios.git
 
 ## Screenshot
 
+
 ## Live page
 https://george-ongaya1.github.io/delaniStudios/
 
@@ -23,11 +24,12 @@ https://george-ongaya1.github.io/delaniStudios/
 - code . depending on the text editor of your choosing.
 
 ## BDD
-| Behaviour      |  Input         |   Output       |
-| :---           |  :---:         |           ---: |
-| Enter your name|                |                |
-|                |                |                |
-
+| Behaviour                  |  Input             |   Output       |
+| :---                       |  :---:             |           ---: |
+| Enter your name            | George Ongaya      |                |
+| Enter your email address   | Enter your message |                |
+| Press Submit               |                    |                |
+|                            |                    |                |
 ## Known Bugs
 - The site isnt responsive enough for some devices.
 
@@ -40,8 +42,11 @@ https://george-ongaya1.github.io/delaniStudios/
 
 
 ## Support and contact details
-- gmail-georgeongaya94@gmail.com
-- slack-george
+
+If you have any questions or contributions, please reach me at.
+
+- gmail- georgeongaya94@gmail.com
+- slack- george
 
 ### License
 
