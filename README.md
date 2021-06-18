@@ -11,20 +11,32 @@ Thus allowing for an iterative process that uses user feedback to enable evoluti
 
 https://github.com/george-ongaya1/delaniStudios.git
 
+## Screenshot
+
+## Live page
+https://george-ongaya1.github.io/delaniStudios/
 
 ## Setup/Installation Requirements
+- Open terminal (Ctrl+Alt+T)
 - Copy the url -https://github.com/george-ongaya1/delaniStudios.git
-- Clone on your computer - git clone https://github.com/george-ongaya1/delaniStudios.git
-- Go live on the browsers available on your device.
+- cd delaniStudios
+- code . depending on the text editor of your choosing.
+
+## BDD
+| Behaviour      |  Input         |   Output       |
+| :---           |  :---:         |           ---: |
+| Enter your name|                |                |
+|                |                |                |
 
 ## Known Bugs
-corruptible file paths and conflicts in application of the block and inline elements properties.
+- The site isnt responsive enough for some devices.
 
 ## Technologies Used
-- html
-- css
-- javascript
-- jquery
+- HTML5
+- CSS
+- Bootstrap
+- jQuery
+- Markdown
 
 
 ## Support and contact details
@@ -33,9 +45,8 @@ corruptible file paths and conflicts in application of the block and inline elem
 
 ### License
 
-Copyright (c) 2021 by George Ongaya (https://github.com/george-ongaya1/delaniStudios.git)
+- MIT  License
+- Copyright (c) 2021 by George Ongaya (https://github.com/george-ongaya1/delaniStudios.git)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following condition:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ 
 
