@@ -11,16 +11,16 @@ Thus allowing for an iterative process that uses user feedback to enable evoluti
 
 https://github.com/george-ongaya1/delaniStudios.git
 
+## Live page
+https://george-ongaya1.github.io/delaniStudios/
+
 ## Screenshot
 
 <img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master/images/screenshots/Screenshot from 2021-06-21 15-09-00.png" width="900px" height="440px">  
 <img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master/images/screenshots/Screenshot from 2021-06-21 15-09-15.png" width="900px" height="440px">  
 <img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master/images/screenshots/Screenshot from 2021-06-21 15-09-28.png"  width="900px" height="440px">  
-<img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master//home/george/Documents/delaniStudios/images/screenshots/Screenshot from 2021-06-21 15-09-45.png" width="900px" height="440px">  
+<img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master/images/screenshots/Screenshot from 2021-06-21 15-09-45.png" width="900px" height="440px">  
 
-
-## Live page
-https://george-ongaya1.github.io/delaniStudios/
 
 ## Setup/Installation Requirements
 - Open terminal (Ctrl+Alt+T)
