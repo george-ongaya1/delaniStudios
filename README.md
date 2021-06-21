@@ -13,6 +13,11 @@ https://github.com/george-ongaya1/delaniStudios.git
 
 ## Screenshot
 
+<img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master/images/screenshots/Screenshot from 2021-06-21 15-09-00.png" width="900px" height="440px">  
+<img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master/images/screenshots/Screenshot from 2021-06-21 15-09-15.png" width="900px" height="440px">  
+<img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master/images/screenshots/Screenshot from 2021-06-21 15-09-28.png"  width="900px" height="440px">  
+<img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master//home/george/Documents/delaniStudios/images/screenshots/Screenshot from 2021-06-21 15-09-45.png" width="900px" height="440px">  
+
 
 ## Live page
 https://george-ongaya1.github.io/delaniStudios/
@@ -23,13 +28,6 @@ https://george-ongaya1.github.io/delaniStudios/
 - cd delaniStudios
 - code . depending on the text editor of your choosing.
 
-## BDD
-| Behaviour                  |  Input             |   Output       |
-| :---                       |  :---:             |           ---: |
-| Enter your name            | George Ongaya      |                |
-| Enter your email address   | Enter your message |                |
-| Press Submit               |                    |                |
-|                            |                    |                |
 ## Known Bugs
 - The site isnt responsive enough for some devices.
 
