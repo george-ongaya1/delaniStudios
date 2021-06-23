@@ -38,7 +38,6 @@ https://george-ongaya1.github.io/delaniStudios/
 - jQuery
 - Markdown
 
-
 ## Support and contact details
 
 If you have any questions or contributions, please reach me at.
